@@ -35,6 +35,8 @@ A HUGE deal. Every year, the price of genome sequencing is drops as a result of 
 
 Those proteins are actually hidden gems that we can harvest. Drug design. Cure to diseases. Manufacturing of valuable substances. Increased understanding of the universe.
 
+I actually wrote a whole [Article](https://dickson-wu.medium.com/unlocking-the-secrets-of-our-genome-with-lstms-636c0724a9f3) about this! Check it out! Also check out my [Video](https://youtu.be/3-Yk3YBqMzU)!
+
 ## Acknowledgements
 
 * [Understanding LSTM Networks by Christopher Olah - A wonderful guide to LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
